@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953859527672",
+    "project_id": "testremoteconfig-814a4",
+    "storage_bucket": "testremoteconfig-814a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953859527672:android:d326ea644649c32ce9fc0d",
+        "android_client_info": {
+          "package_name": "com.melyseev.testremoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953859527672-2993f79mqi1o2fsi3l75g3mp1obur6fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG50249kTuVh0YUJtFBlUycj2Tws64izw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953859527672-2993f79mqi1o2fsi3l75g3mp1obur6fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
